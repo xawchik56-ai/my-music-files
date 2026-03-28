@@ -4,5 +4,12 @@
     "title": "ggg",
     "artist": "Unknown Artist",
     "url": "https://github.com/xawchik56-ai/my-music-files/raw/refs/heads/main/ggg.mp3"
+  },
+  {
+    "id": "2",
+    "title": "gg",
+    "artist": "Unknown Artist",
+    "url": "https://raw.githubusercontent.com/xawchik56-ai/my-music-files/main/track2.mp3"
   }
 ]
+
